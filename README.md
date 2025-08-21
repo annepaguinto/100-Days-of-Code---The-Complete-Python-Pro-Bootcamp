@@ -12,7 +12,7 @@
     <td>Band Name Generator</td>
     <td>
       <ul>
-        <li style=list-style-type:none>Downloaded and set up PyCharm</li>
+        <li>Downloaded and set up PyCharm</li>
         <li>Completed a printing and debugging practice</li>
         <li>Learned about String manipulation, Code Intelligence and Variable Naming</li>
         <li>Introduced to Python Variables</li>
