@@ -1,6 +1,6 @@
 <h1>100 Days of Code - The Complete Python Pro Bootcamp</h1>
 
-Beginner Level
+<h2>Beginner Level</h2>
 <table>
   <tr>
     <th>Days</th>
@@ -11,12 +11,10 @@ Beginner Level
     <td>Day 1</td>
     <td>Band Name Generator</td>
     <td>
-      <ul>
-        <li>Downloaded and set up PyCharm</li>
-        <li>Completed a printing and debugging practice</li>
-        <li>Learned about String manipulation, Code Intelligence and Variable Naming</li>
-        <li>Introduced to Python Variables</li>
-      </ul>
+        <p>Downloaded and set up PyCharm</p>
+        <p>Completed a printing and debugging practice</p>
+        <p>Learned about String manipulation, Code Intelligence and Variable Naming</p>
+        <p>Introduced to Python Variables</p>
     </td>
   </tr>
   
@@ -24,10 +22,8 @@ Beginner Level
     <td>Day 2</td>
     <td>Tip Calculator</td>
     <td>
-      <ul>
-        <li>Learned the Python Primitive Data Types and Mathematical Operators in Python</li>
-        <li>Type Error, Type Checking and Type Conversion</li>
-      </ul>
+      <p>Learned the Python Primitive Data Types and Mathematical Operators in Python</p>
+      <p>Type Error, Type Checking and Type Conversion</p>
     </td>
   </tr>
   
@@ -35,11 +31,9 @@ Beginner Level
     <td>Day 3</td>
     <td>Tip Calculator</td>
     <td>
-      <ul>
-        <li>Control Flow with if / else and Conditional Operators</li>
-        <li>Learned Modulo and Logical Operators</li>
-        <li>Nested if and elif statements</li>
-      </ul>
+        <p>Control Flow with if / else and Conditional Operators</p>
+        <p>Learned Modulo and Logical Operators</p>
+        <p>Nested if and elif statements</p>
     </td>
   </tr>
 
