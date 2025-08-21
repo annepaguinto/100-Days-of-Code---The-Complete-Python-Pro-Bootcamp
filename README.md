@@ -1,10 +1,3 @@
-<style>
-  li {
-    list-style-type: none;
-  }
-  
-</style>
-
 <h1>100 Days of Code - The Complete Python Pro Bootcamp</h1>
 
 <h2>Beginner Level</h2>
@@ -19,7 +12,7 @@
     <td>Band Name Generator</td>
     <td>
       <ul>
-        <li>Downloaded and set up PyCharm</li>
+        <li style=list-style-type:none>Downloaded and set up PyCharm</li>
         <li>Completed a printing and debugging practice</li>
         <li>Learned about String manipulation, Code Intelligence and Variable Naming</li>
         <li>Introduced to Python Variables</li>
