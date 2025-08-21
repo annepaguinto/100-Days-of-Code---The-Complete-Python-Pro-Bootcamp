@@ -1,6 +1,6 @@
 <h1>100 Days of Code - The Complete Python Pro Bootcamp</h1>
 
-<h2>Beginner Level</h2>
+<i>Beginner Level</i>
 <table>
   <tr>
     <th>Days</th>
