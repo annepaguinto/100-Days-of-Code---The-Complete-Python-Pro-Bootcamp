@@ -1,7 +1,7 @@
 <h1>100 Days of Code - The Complete Python Pro Bootcamp</h1>
 
 <i>Beginner Level</i>
-<img width="250" height="230" alt="Image" src="https://github.com/user-attachments/assets/006dd03a-4b45-4273-a096-801fc805b10d" />
+<img width="50" height="40" alt="Image" src="https://github.com/user-attachments/assets/006dd03a-4b45-4273-a096-801fc805b10d" />
 <table>
   <tr>
     <th>Days</th>
