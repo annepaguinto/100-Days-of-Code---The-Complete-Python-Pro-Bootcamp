@@ -1,5 +1,7 @@
 <h1>100 Days of Code - The Complete Python Pro Bootcamp</h1>
 
+Welcome to my Python journey! This is where I track and document my progress as I try to complete this course.
+
 <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/006dd03a-4b45-4273-a096-801fc805b10d" /><br>
 <i>Beginner Level</i>
 
