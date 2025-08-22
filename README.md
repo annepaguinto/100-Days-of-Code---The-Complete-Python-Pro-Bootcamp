@@ -2,6 +2,65 @@
 
 Welcome to my Python journey! This is where I track and document my progress as I try to complete this course.
 
+<!-----------------------------------------------------------------------INTERMEDIATE SECTION---------------------------------------------------------------------------------------->
+
+<img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/006dd03a-4b45-4273-a096-801fc805b10d" /><img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/006dd03a-4b45-4273-a096-801fc805b10d" />
+<br>
+<i>Intermediate Level</i>
+
+<table>
+  <tr>
+    <th>Days</th>
+    <th>Project Name</th>
+    <th>Things I learned to complete this project</th>
+  </tr>
+  <tr>
+    <td>Day 15</td>
+    <td>Coffee Machine</td>
+    <td>
+      <ul>
+        <li>Local Development Environment setup</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Day 16</td>
+    <td>Coffee Machine Project with OOP</td>
+    <td>
+      <ul>
+        <li>Object Oriented Programming (OOP)</li>
+        <li>Classes and Objects</li>
+        <li>Adding Python Packages</li>
+        <li>Constructing Objects and Accessing Attributes and Methods</li>
+        <li>Modifying Object Attributes and Calling Methods</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Day 17</td>
+    <td>The Quiz Project</td>
+    <td>
+      <ul>
+        <li>Working with attributes, class constructors and the __init__() function)</li>
+        <li>Adding methods to a class</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Day 18</td>
+    <td>The Hirst Painting</td>
+    <td>
+      <ul>
+        <li>Turtle & the Graphical User Interface (GUI)</li>
+        <li>Understanding Turtle Graphics and How to use the Documentation</li>
+      </ul>
+    </td>
+  </tr>
+
+</table>
+<br>
+<!-----------------------------------------------------------------------BEGINNER SECTION---------------------------------------------------------------------------------------->
+
 <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/006dd03a-4b45-4273-a096-801fc805b10d" /><br>
 <i>Beginner Level</i>
 
