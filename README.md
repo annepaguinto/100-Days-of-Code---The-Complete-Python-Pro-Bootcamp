@@ -56,6 +56,17 @@ Welcome to my Python journey! This is where I track and document my progress as 
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>Day 19</td>
+    <td>Turtle Race</td>
+    <td>
+      <ul>
+        <li>Higher order functions</li>
+        <li>Event listener</li>
+        <li>Object state and instances</li>
+      </ul>
+    </td>
+  </tr>
 
 </table>
 <br>
