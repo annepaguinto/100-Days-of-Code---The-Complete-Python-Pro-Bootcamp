@@ -68,6 +68,18 @@ Welcome to my Python journey! This is where I track and document my progress as 
     </td>
   </tr>
 
+  <tr>
+    <td>Day 20</td>
+    <td>Snake Game Part 1</td>
+    <td>
+      <ul>
+        <li>Make the snake appear on the screen</li>
+        <li>Move the snake with keyboard keys</li>
+        <li>Refactor the codes to OOP</li>
+      </ul>
+    </td>
+  </tr>
+
 </table>
 <br>
 <!-----------------------------------------------------------------------BEGINNER SECTION---------------------------------------------------------------------------------------->
@@ -240,6 +252,7 @@ Welcome to my Python journey! This is where I track and document my progress as 
       </ul>
     </td>
   </tr>
+
 
 
 
