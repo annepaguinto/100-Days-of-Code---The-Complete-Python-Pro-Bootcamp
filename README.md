@@ -80,6 +80,17 @@ Welcome to my Python journey! This is where I track and document my progress as 
     </td>
   </tr>
 
+  <tr>
+    <td>Day 21</td>
+    <td>Snake Game Part 2</td>
+    <td>
+      <ul>
+        <li>Class Inheritance</li>
+        <li>List/Tuple Slicing</li>
+      </ul>
+    </td>
+  </tr>
+
 </table>
 <br>
 <!-----------------------------------------------------------------------BEGINNER SECTION---------------------------------------------------------------------------------------->
