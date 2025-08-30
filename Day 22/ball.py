@@ -1,39 +1,25 @@
 from turtle import Turtle
 
-class Paddle(Turtle):
-    def __init__(self, x_cor, y_cor):
-        super().__init__()
-        self.shape("square")
-        self.shapesize(stretch_wid=5, stretch_len=1)
-        self.color("white")
-        self.penup()
-        self.x_cor = x_cor
-        self.y_cor = y_cor
-        self.goto(x_cor, y_cor)
-
-    def up(self):
-        self.y_cor = self.ycor() + 20
-        self.goto(self.x_cor,self.y_cor)
-
-
-    def down(self):
-        self.y_cor = self.ycor() - 20
-        self.goto(self.x_cor,self.y_cor)
-
-        
-class Divider(Turtle):
+class Ball(Turtle):
     def __init__(self):
         super().__init__()
-        self.color("white")
-
+        self.shape("circle")
         self.penup()
-        self.hideturtle()
-        self.pensize(3)
-        self.goto(0, 295)
+        self.color("white")
+        self.xmove = 10
+        self.ymove = 10
+        self.move_speed = 0.1
+    def move(self):
+        new_x = self.xcor() + self.xmove
+        new_y = self.ycor() + self.ymove
+        self.goto(new_x, new_y)
 
-        for _ in range(29):
-            self.penup()
-            self.forward(10)
-            self.setheading(270)
-            self.pendown()
-            self.forward(10)
+    def bounce_y(self):
+        self.ymove *= -1
+
+    def bounce_x(self):
+        self.xmove *= -1
+
+    def reset_position(self):
+        self.goto(0,0)
+        self.bounce_x()
