@@ -91,6 +91,16 @@ Welcome to my Python journey! This is where I track and document my progress as 
     </td>
   </tr>
 
+  <tr>
+    <td>Day 22</td>
+    <td>The Pong Game</td>
+    <td>
+      <ul>
+        <li>OOP and Class Inheritance</li>
+      </ul>
+    </td>
+  </tr>
+
 </table>
 <br>
 <!-----------------------------------------------------------------------BEGINNER SECTION---------------------------------------------------------------------------------------->
