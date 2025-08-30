@@ -96,7 +96,17 @@ Welcome to my Python journey! This is where I track and document my progress as 
     <td>The Pong Game</td>
     <td>
       <ul>
-        <li>OOP and Class Inheritance</li>
+        <li>A test of knowledge with OOP, Class Inheritance and Turtle module</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Day 23</td>
+    <td>The Turtle Crossing (A capstone project)</td>
+    <td>
+      <ul>
+        <li>A test of knowledge with OOP, Class Inheritance and Turtle module</li>
       </ul>
     </td>
   </tr>
