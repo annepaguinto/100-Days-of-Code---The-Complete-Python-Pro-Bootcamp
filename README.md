@@ -111,6 +111,17 @@ Welcome to my Python journey! This is where I track and document my progress as 
     </td>
   </tr>
 
+  <tr>
+    <td>Day 23</td>
+    <td>Mail Merge Challenge</td>
+    <td>
+      <ul>
+        <li>How to Open, Read, and Write to Files using the "with" Keyword</li>
+        <li>Understand Relative and Absolute File Paths</li>
+      </ul>
+    </td>
+  </tr>
+
 </table>
 <br>
 <!-----------------------------------------------------------------------BEGINNER SECTION---------------------------------------------------------------------------------------->
