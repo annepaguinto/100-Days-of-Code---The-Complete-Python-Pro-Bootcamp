@@ -112,12 +112,24 @@ Welcome to my Python journey! This is where I track and document my progress as 
   </tr>
 
   <tr>
-    <td>Day 23</td>
+    <td>Day 24</td>
     <td>Mail Merge Challenge</td>
     <td>
       <ul>
         <li>How to Open, Read, and Write to Files using the "with" Keyword</li>
         <li>Understand Relative and Absolute File Paths</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Day 25</td>
+    <td>Guess the US States Game</td>
+    <td>
+      <ul>
+        <li>Pandas- a python data analysis library</li>
+        <li>Data Frames and Series</li>
+        <li>Read and write CSV files</li>
       </ul>
     </td>
   </tr>
