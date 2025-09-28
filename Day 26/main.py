@@ -6,6 +6,6 @@ nato_dict = {row.letter:row.code for (item,row) in nato_alphabet.iterrows()}
 
 word = input("Enter a word: ").upper()
 
-word_list = [nato_dict[letter] for letter in word if letter]
+word_list = [nato_dict[letter] for letter in word if letter in nato_dict]
 
 print(word_list)
