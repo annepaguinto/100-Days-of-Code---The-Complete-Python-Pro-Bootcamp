@@ -134,6 +134,18 @@ Welcome to my Python journey! This is where I track and document my progress as 
     </td>
   </tr>
 
+  <tr>
+    <td>Day 26</td>
+    <td>Spell a word with NATO Alphabet</td>
+    <td>
+      <ul>
+        <li>List Comprehension</li>
+        <li>Dictionary Comprehension</li>
+        <li>iterrows() with Pandas</li>
+      </ul>
+    </td>
+  </tr>
+
 </table>
 <br>
 <!-----------------------------------------------------------------------BEGINNER SECTION---------------------------------------------------------------------------------------->
